@@ -8,9 +8,20 @@
 }
 
 .bg-primary {
-    background-color: #6508b1 !important;
+    background-color: #f0addb !important;
     font-style:italic;
     font-family: 'Times New Roman', Times, serif;   
+}
+
+.bnt-dark{
+    border-radius: 7px;
+    border-color: #dd90c5;
+}
+
+.tulip{
+    height: 24px;
+    margin-bottom: 6px;
+    /* width: 20px; */
 }
 
 .scrollspyhome{
